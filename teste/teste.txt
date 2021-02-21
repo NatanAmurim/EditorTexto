@@ -4,3 +4,4 @@ teste2 da branch3
 teste2 da branch4
 teste2 da branch5
 teste7
+teste7
