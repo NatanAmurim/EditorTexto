@@ -4,4 +4,8 @@ teste2 da branch3
 teste2 da branch4
 teste2 da branch5
 teste7
+<<<<<<< HEAD
 teste7
+=======
+direto
+>>>>>>> 6ce397be54622a4f4dc65f6495b88604cbea4ab3
